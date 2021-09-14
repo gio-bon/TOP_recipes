@@ -1,0 +1,15 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    background-color: rgb(201, 159, 159);
+} 
+
+h1, h2, h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    text-indent: 4%;
+}
+
+a {
+    font-weight: bold;
+}
